@@ -2,30 +2,30 @@
  * Created by tjc on 30/1/17.
  */
 
-public class ArrayStak implements Stak {
-    String[] stak;
+public class ArrayStack implements Stack {
+    String[] stack;
     int top = 0;
 
-    public ArrayStak(int size) {
-        this.stak = new String[size];
+    public ArrayStack(int size) {
+        this.stack = new String[size];
     }
 
     @Override
     public void push(String e) {
         if (!full()) {
-            stak[top++] = e;    // adds e as top element and increments top.
+            stack[top++] = e;    // adds e as top element and increments top.
         }
-//            String[] tempstak = stak;
-//            stak[stak.length + 1] = e;
-//            for (int i = stak.length+1; i < stak.length; i++) {
-//                tempstak[i] = stak[i-1];
-//                stak = tempstak;
+//            String[] tempstak = stack;
+//            stack[stack.length + 1] = e;
+//            for (int i = stack.length+1; i < stack.length; i++) {
+//                tempstak[i] = stack[i-1];
+//                stack = tempstak;
 //            }
     }
 
     @Override
     public String pop() {
-        return stak[--top]; // returns top element
+        return stack[--top]; // returns top element
     }
 
     @Override
@@ -35,13 +35,13 @@ public class ArrayStak implements Stak {
 
     @Override
     public boolean full() {
-        return top >= stak.length;
+        return top >= stack.length;
     }
 
     @Override
     public void show() {    // printer elementerne i arrayet startende fra toppen
         for (int i=top-1; i>=0; i--) {  // top-1 fordi top et et tomt element
-            System.out.print(stak[i] + " ");
+            System.out.print(stack[i] + " ");
         }
         System.out.println();
     }

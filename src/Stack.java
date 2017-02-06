@@ -2,7 +2,7 @@
  * Created by tjc on 30/1/17.
  */
 //interface givet fra opgave
-public interface Stak {
+public interface Stack {
     void push(String e);
     String pop();
     boolean empty();

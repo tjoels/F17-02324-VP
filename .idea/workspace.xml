@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced2e97a-f573-488f-a31a-323a1300acb7" name="Default" comment="gitignore and workspace">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ArrayStackTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedStackTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/01/ArrayStak.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/01/Stak.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StakTest.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01.iml" afterPath="$PROJECT_DIR$/01 interface.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayStak.java" afterPath="$PROJECT_DIR$/src/ArrayStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Stak.java" afterPath="$PROJECT_DIR$/src/Stack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="ced2e97a-f573-488f-a31a-323a1300acb7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -484,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1485879504083</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactored &quot;stak&quot; to &quot;stack&quot;.">
+      <created>1486384006016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1486384006016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented LinkedStack with awo">
+      <created>1486384053264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1486384053264</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -527,7 +530,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="løst opg1" />
     <MESSAGE value="gitignore and workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore and workspace" />
+    <MESSAGE value="refactored &quot;stak&quot; to &quot;stack&quot;." />
+    <MESSAGE value="implemented LinkedStack with awo" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented LinkedStack with awo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -744,7 +749,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>01</last-edited>
+          <last-edited>01 interface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced2e97a-f573-488f-a31a-323a1300acb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/Funktionalitet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/Funktionalitet_Kasper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/TUI.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Lektion02_BMI/Functionality.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lektion02_BMI/IFunctionality.java" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/IFunktionalitet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lektion02_BMI/Data.java" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/Data.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lektion02_BMI/IData.java" afterPath="$PROJECT_DIR$/src/Lektion02_BMI/IData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -632,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486392093732</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="BMI Funktionalitet and TUI done">
+      <created>1486397669546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1486397669546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -680,7 +680,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/trules/F17-02324-VP&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml&#10;" />
     <MESSAGE value="refactor" />
     <MESSAGE value="BMI skel" />
-    <option name="LAST_COMMIT_MESSAGE" value="BMI skel" />
+    <MESSAGE value="BMI Funktionalitet and TUI done" />
+    <option name="LAST_COMMIT_MESSAGE" value="BMI Funktionalitet and TUI done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

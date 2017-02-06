@@ -1,0 +1,13 @@
+package Lektion02_BMI;
+
+/**
+ * Created by tjc on 6/2/17.
+ */
+public interface IFunctionality {
+    // beregn BMI udfra personens CPR-nr
+    double getBMI(String cpr);
+    // returnér en tekst der beskriver BMI intervallet
+    String getTextualBMI(String cpr);
+    // returnér perosn navn udfra CPR-nr
+    String getNavn(String cpr); // returnér perosn navn udfra CPR-nr
+}

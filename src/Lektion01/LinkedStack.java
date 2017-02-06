@@ -1,3 +1,5 @@
+package Lektion01;
+
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 /**
@@ -83,7 +85,7 @@ public class LinkedStack implements Stack {
         String item;
         Node next;
 
-        public Node(Node prev, String item, Node next) {
+        Node(Node prev, String item, Node next) {
             this.prev = prev;
             this.item = item;
             this.next = next;

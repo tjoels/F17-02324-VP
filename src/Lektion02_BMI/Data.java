@@ -1,5 +1,7 @@
 package Lektion02_BMI;
 
+import java.util.ArrayList;
+
 /**
  * Created by tjc on 6/2/17.
  */

@@ -3,7 +3,7 @@ package Lektion02_BMI;
 /**
  * Created by tjc on 6/2/17.
  */
-public interface IFunctionality {
+public interface IFunktionalitet {
     // beregn BMI udfra personens CPR-nr
     double getBMI(String cpr);
     // returnér en tekst der beskriver BMI intervallet

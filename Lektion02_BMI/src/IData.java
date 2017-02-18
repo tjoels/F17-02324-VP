@@ -1,5 +1,3 @@
-package Lektion02_BMI;
-
 import java.security.SecureRandom;
 
 /**

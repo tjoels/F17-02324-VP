@@ -1,7 +1,3 @@
-package Lektion02_BMI;
-
-import Lektion02_BMI.IFunktionalitet;
-
 /**
  * Wrote by leiszner on 2/6/17.
  */

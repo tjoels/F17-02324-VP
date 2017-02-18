@@ -1,5 +1,3 @@
-package Lektion01;
-
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 /**

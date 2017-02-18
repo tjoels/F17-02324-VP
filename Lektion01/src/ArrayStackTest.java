@@ -1,5 +1,3 @@
-package Lektion01;
-
 /**
  * Created by tjc on 30/1/17.
  */

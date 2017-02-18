@@ -1,5 +1,3 @@
-package Lektion02_BMI;
-
 import java.util.Scanner;
 
 /**
@@ -7,7 +5,7 @@ import java.util.Scanner;
  */
 public class TUI {
     public static void main(String[] args) {
-        IFunktionalitet funk = new Funktionalitet();
+        IFunktionalitet funk = new Funktionalitet_Kasper();
         Scanner in = new Scanner(System.in);
         System.out.println("Indtast CPR: ");
         System.out.println("f.eks. ");

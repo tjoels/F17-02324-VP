@@ -818,7 +818,7 @@
       <option name="presentableId" value="Default" />
       <updated>1485785166300</updated>
       <workItem from="1487454015083" duration="1463000" />
-      <workItem from="1487457366781" duration="506000" />
+      <workItem from="1487457366781" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="løst opg1">
       <created>1485794111898</created>
@@ -953,11 +953,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487457751460</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="idea">
+      <created>1487457878916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1487457878916</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1969000" />
+    <option name="totallyTimeSpent" value="1988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />

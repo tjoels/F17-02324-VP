@@ -5,10 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced2e97a-f573-488f-a31a-323a1300acb7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/F17-02324-VP.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lektion02/Lektion02.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02324_VP.iml" afterPath="$PROJECT_DIR$/02324_VP.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion01/src/ArrayStack.java" afterPath="$PROJECT_DIR$/Lektion01/src/ArrayStack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion01/src/ArrayStackTest.java" afterPath="$PROJECT_DIR$/Lektion01/src/ArrayStackTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion01/src/LinkedStack.java" afterPath="$PROJECT_DIR$/Lektion01/src/LinkedStack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion01/src/LinkedStackTest.java" afterPath="$PROJECT_DIR$/Lektion01/src/LinkedStackTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion01/src/Stack.java" afterPath="$PROJECT_DIR$/Lektion01/src/Stack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/Data.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/Data.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/Funktionalitet.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/Funktionalitet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/Funktionalitet_Kasper.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/Funktionalitet_Kasper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/IData.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/IData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/IFunktionalitet.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/IFunktionalitet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion02_BMI/src/TUI.java" afterPath="$PROJECT_DIR$/Lektion02_BMI/src/TUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/Lektion03.iml" afterPath="$PROJECT_DIR$/Lektion03/Lektion03.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/Data.java" afterPath="$PROJECT_DIR$/Lektion03/src/Data.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/DataException.java" afterPath="$PROJECT_DIR$/Lektion03/src/DataException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/Funktionalitet.java" afterPath="$PROJECT_DIR$/Lektion03/src/Funktionalitet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/Funktionalitet_Kasper.java" afterPath="$PROJECT_DIR$/Lektion03/src/Funktionalitet_Kasper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/IData.java" afterPath="$PROJECT_DIR$/Lektion03/src/IData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/IFunktionalitet.java" afterPath="$PROJECT_DIR$/Lektion03/src/IFunktionalitet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lektion03/src/TUI.java" afterPath="$PROJECT_DIR$/Lektion03/src/TUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,18 +60,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,6 +69,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.idea</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,12 +106,12 @@
         <option value="$PROJECT_DIR$/src/Lektion02_BMI/Functionality.java" />
         <option value="$PROJECT_DIR$/src/Lektion02_BMI/Funktionalitet.java" />
         <option value="$PROJECT_DIR$/src/Lektion02_BMI/Funktionalitet_Kasper.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Lektion01/src/Stack.java" />
         <option value="$PROJECT_DIR$/Lektion02/src/TUI.java" />
         <option value="$PROJECT_DIR$/src/Lektion02_BMI/TUI.java" />
         <option value="$PROJECT_DIR$/Lektion02_BMI/src/TUI.java" />
         <option value="$PROJECT_DIR$/Lektion03/src/TUI.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -125,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,25 +252,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F17-02324-VP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F17-02324-VP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -773,6 +777,8 @@
       <workItem from="1487464326502" duration="205000" />
       <workItem from="1487464540098" duration="1000" />
       <workItem from="1487465318254" duration="113000" />
+      <workItem from="1487466269069" duration="57000" />
+      <workItem from="1487542650981" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="løst opg1">
       <created>1485794111898</created>
@@ -928,11 +934,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487457913847</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added .idea/* to .gitignore">
+      <created>1487542777306</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1487542777306</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3968000" />
+    <option name="totallyTimeSpent" value="5603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -973,6 +986,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -988,7 +1019,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;resolved" />
     <MESSAGE value="refactor" />
     <MESSAGE value="idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+    <MESSAGE value="added .idea/* to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .idea/* to .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1356,8 +1388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>

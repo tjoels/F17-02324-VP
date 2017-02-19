@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02324_VP.iml" filepath="$PROJECT_DIR$/02324_VP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion01/Lektion01.iml" filepath="$PROJECT_DIR$/Lektion01/Lektion01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion02/Lektion02.iml" filepath="$PROJECT_DIR$/Lektion02/Lektion02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion02_BMI/Lektion02_BMI.iml" filepath="$PROJECT_DIR$/Lektion02_BMI/Lektion02_BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion03/Lektion03.iml" filepath="$PROJECT_DIR$/Lektion03/Lektion03.iml" />
     </modules>

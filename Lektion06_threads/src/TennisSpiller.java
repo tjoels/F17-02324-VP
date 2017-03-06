@@ -1,14 +1,14 @@
 /**
  * Created by tjc on 2017-03-06.
  */
-public class TennisSpiller implements Runnable{
+public class TennisSpiller implements Runnable {
     public static Object ball = new Object();
     private boolean hasBall;
 
     @Override
     public void run() {
-        while (true){
-            if (hasBall=true){
+        while (true) {
+            if (hasBall = true) {
                 System.out.println(Thread.currentThread().getName() + ": I have the ball!");
                 synchronized (ball) {
 
@@ -17,15 +17,15 @@ public class TennisSpiller implements Runnable{
                         Thread.sleep(500);
                     } catch (InterruptedException e) {
                     }
-                    hasBall=false;
+                    hasBall = false;
                     ball.notifyAll();
                 }
             } else {
-                synchronized (ball){
+                synchronized (ball) {
                     try {
                         ball.wait();
-                        synchronized (ball){
-                            hasBall=true;
+                        synchronized (ball) {
+                            hasBall = true;
                         }
                     } catch (InterruptedException e) {
                     }
@@ -37,6 +37,7 @@ public class TennisSpiller implements Runnable{
     public boolean isHasBall() {
         return hasBall;
     }
+
     public TennisSpiller setHasBall(boolean hasBall) {
         this.hasBall = hasBall;
         return this;
